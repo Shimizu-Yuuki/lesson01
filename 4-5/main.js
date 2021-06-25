@@ -13,4 +13,8 @@ for(let j=0;j<array.length;j++){
     }
   }
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 console.log(array);
