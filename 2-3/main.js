@@ -8,3 +8,4 @@ if(arg>=24){
   console.log(arg);
 
 }
+
