@@ -18,3 +18,8 @@ const profiles = {
     }
   ]
 }
+
+const profile=profiles.profiles;
+profile.forEach(function(profile){
+    console.log(`${profile.name}:${profile.age}`);
+});
